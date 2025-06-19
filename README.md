@@ -1,4 +1,4 @@
-# NYT Block Remover
+# NYT Games Paywall Remover
 
 A Chrome extension that automatically removes overlays and subscription prompts from interactive tools like the **Wordle Bot** and **Connections Bot** on the New York Times site.
 
@@ -16,7 +16,7 @@ A Chrome extension that automatically removes overlays and subscription prompts 
    ```
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable **Developer Mode**
-4. Click **Load unpacked** and select the `nyt-block-remover` folder
+4. Click **Load unpacked** and select the `nyt-games-paywall-remover` folder
 
 The extension will work automatically on supported pages only.
 
